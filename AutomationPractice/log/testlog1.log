@@ -1,0 +1,23 @@
+2016-08-24 15:47:06,932 [main] INFO CategorySelect - openening the website
+2016-08-24 15:47:21,171 [main] INFO CategorySelect - on home page click on womens section
+2016-08-24 15:47:30,751 [main] INFO CategorySelect - womens section selected
+2016-08-24 15:57:28,517 [main] INFO CategorySelect - openening the website
+2016-08-24 15:57:42,622 [main] INFO CategorySelect - on home page click on womens section
+2016-08-24 15:57:52,311 [main] INFO CategorySelect - womens section selected
+2016-08-24 15:58:15,138 [main] DEBUG devpinoyLogger - Click on proceed to checkout
+2016-08-24 15:58:37,787 [main] DEBUG devpinoyLogger - Opening the Website
+2016-08-24 15:58:37,809 [main] DEBUG devpinoyLogger - Providing implicit wait time of 12 seconds for the application to launch
+2016-08-24 15:58:57,879 [main] DEBUG devpinoyLogger - Move to women sections >> click on T-shirts link
+2016-08-24 15:59:02,888 [main] DEBUG devpinoyLogger - Select the first item and Click on add to cart
+2016-08-24 15:59:09,964 [main] DEBUG devpinoyLogger - Click on proceed to checkout
+2016-08-25 11:37:07,127 [Forwarding getTitle on session bdedb76e-61ff-41c5-812a-1d93d13f69e9 to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2016-08-25 11:37:07,442 [Forwarding getTitle on session bdedb76e-61ff-41c5-812a-1d93d13f69e9 to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://127.0.0.1:7055
+2016-08-25 11:37:52,172 [main] DEBUG devpinoyLogger - Click on proceed to checkout
+2016-08-25 11:38:48,961 [main] DEBUG devpinoyLogger - Click on proceed to checkout
+2016-08-25 12:08:52,432 [Forwarding getTitle on session 137326ab-8bd0-4a08-8f49-a035f1bcf3f1 to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7056: The target server failed to respond
+2016-08-25 12:08:52,453 [Forwarding getTitle on session 137326ab-8bd0-4a08-8f49-a035f1bcf3f1 to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://127.0.0.1:7056
+2016-08-25 12:54:05,894 [main] DEBUG devpinoyLogger - Click on proceed to checkout
+2016-08-25 12:55:38,103 [main] DEBUG devpinoyLogger - Click on proceed to checkout
+2016-08-25 12:58:53,042 [main] DEBUG devpinoyLogger - Click on proceed to checkout
+2016-08-25 14:52:17,382 [main] DEBUG devpinoyLogger - Click on proceed to checkout
+2016-08-25 15:00:01,436 [main] DEBUG devpinoyLogger - Click on proceed to checkout

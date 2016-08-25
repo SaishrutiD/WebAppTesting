@@ -1,0 +1,23 @@
+2016-08-24 15:47:06,932 - CategorySelect -INFO - openening the website
+2016-08-24 15:47:21,171 - CategorySelect -INFO - on home page click on womens section
+2016-08-24 15:47:30,751 - CategorySelect -INFO - womens section selected
+2016-08-24 15:57:28,517 - CategorySelect -INFO - openening the website
+2016-08-24 15:57:42,622 - CategorySelect -INFO - on home page click on womens section
+2016-08-24 15:57:52,311 - CategorySelect -INFO - womens section selected
+2016-08-24 15:58:15,138 - devpinoyLogger -DEBUG - Click on proceed to checkout
+2016-08-24 15:58:37,787 - devpinoyLogger -DEBUG - Opening the Website
+2016-08-24 15:58:37,809 - devpinoyLogger -DEBUG - Providing implicit wait time of 12 seconds for the application to launch
+2016-08-24 15:58:57,879 - devpinoyLogger -DEBUG - Move to women sections >> click on T-shirts link
+2016-08-24 15:59:02,888 - devpinoyLogger -DEBUG - Select the first item and Click on add to cart
+2016-08-24 15:59:09,964 - devpinoyLogger -DEBUG - Click on proceed to checkout
+2016-08-25 11:37:07,127 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2016-08-25 11:37:07,442 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7055
+2016-08-25 11:37:52,172 - devpinoyLogger -DEBUG - Click on proceed to checkout
+2016-08-25 11:38:48,961 - devpinoyLogger -DEBUG - Click on proceed to checkout
+2016-08-25 12:08:52,432 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7056: The target server failed to respond
+2016-08-25 12:08:52,453 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {}->http://127.0.0.1:7056
+2016-08-25 12:54:05,894 - devpinoyLogger -DEBUG - Click on proceed to checkout
+2016-08-25 12:55:38,103 - devpinoyLogger -DEBUG - Click on proceed to checkout
+2016-08-25 12:58:53,042 - devpinoyLogger -DEBUG - Click on proceed to checkout
+2016-08-25 14:52:17,382 - devpinoyLogger -DEBUG - Click on proceed to checkout
+2016-08-25 15:00:01,436 - devpinoyLogger -DEBUG - Click on proceed to checkout

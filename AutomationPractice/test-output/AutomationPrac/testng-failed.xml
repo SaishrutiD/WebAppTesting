@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutomationPrac]">
+  <test name="TestNumber1(failed)">
+    <classes>
+      <class name="testCase.CategorySelect">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- testCase.CategorySelect -->
+      <class name="testCase.TestCart">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="SelectDress"/>
+        </methods>
+      </class> <!-- testCase.TestCart -->
+    </classes>
+  </test> <!-- TestNumber1(failed) -->
+</suite> <!-- Failed suite [AutomationPrac] -->
